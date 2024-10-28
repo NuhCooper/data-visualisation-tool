@@ -13,9 +13,9 @@ This project generates visualisations automatically for any uploaded dataset, id
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/NuhCooper/data-visualisation-tool.git
 2. Navigate into the project directory
-    cd <your-project-directory>
+    cd cd data-visualisation-tool
 3. Install the required packages:
      pip install -r requirements.txt
 
